@@ -1,6 +1,4 @@
 /*
-CS 349 A1 Skeleton Code - Snake
-
 - - - - - - - - - - - - - - - - - - - - - -
 
 Commands to compile and run:
